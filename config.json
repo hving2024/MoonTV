@@ -80,7 +80,10 @@
     "ikun": {
       "api": "https://155api.com/api.php/provide/vod",
       "name": "155资源"
-    
+    },
+    "ikun": {
+      "api": "https://api.ddapi.cc/api.php/provide/vod",
+      "name": "滴滴资源"
     }
   }
 }
