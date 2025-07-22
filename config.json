@@ -86,8 +86,8 @@
       "name": "番号资源"
     },
     "ikun": {
-      "api": "https://api.ddapi.cc/api.php/provide/vod",
-      "name": "滴滴资源"
+      "api": "https://18.cxr.cool/api.php/provide/vod",
+      "name": "18资源"
     }
   }
 }
