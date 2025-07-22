@@ -82,14 +82,6 @@
       "name": "155资源"
     },
     "ikun": {
-      "api": "http://fhapi9.com/api.php/provide/vod",
-      "name": "番号资源"
-    },
-    "ikun": {
-      "api": "https://apilsbzy1.com/api.php/provide/vod",
-      "name": "色笔资源"
-    },
-    "ikun": {
       "api": "https://slapibf.com/api.php/provide/vod",
       "name": "森林资源"
     }
