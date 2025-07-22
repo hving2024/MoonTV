@@ -82,8 +82,8 @@
       "name": "155资源"
     },
     "ikun": {
-      "api": "https://api.ddapi.cc/api.php/provide/vod",
-      "name": "滴滴资源"
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "奥斯卡资源"
     }
   }
 }
