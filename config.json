@@ -86,8 +86,8 @@
       "name": "番号资源"
     },
     "ikun": {
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "name": "奥斯卡资源"
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "name": "黄资源"
     }
   }
 }
