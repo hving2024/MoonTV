@@ -86,8 +86,12 @@
       "name": "番号资源"
     },
     "ikun": {
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "name": "黄资源"
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "色笔资源"
+    },
+    "ikun": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "森林资源"
     }
   }
 }
